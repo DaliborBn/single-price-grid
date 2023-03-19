@@ -1,0 +1,58 @@
+@media (min-width:768px) {
+  .custom-container {
+    max-width: 75rem;
+    width: 100%;
+  }
+  .main-padding {
+    padding: 4.5rem;
+  }
+  .section {
+    h2 {
+      font-size: 2.6rem;
+    }
+    h1 {
+      font-size: 3.6rem;
+    }
+    h3 {
+      font-size: 2rem;
+    }
+    p {
+      font-size: 1.8rem;
+    }
+  }
+  .section-1 {
+    h3 {
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+    }
+  }
+  .section-2 {
+    h2 {
+      font-size: 2rem;
+    }
+    .price {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    h6 {
+      font-size: 1.7rem;
+    }
+    h3 {
+      font-size: 1.8rem;
+    }
+    a {
+      padding: 1.4rem;
+      font-size: 1.7rem;
+      margin-top: 2.5rem;
+    }
+  }
+  .section-3 {
+    h2 {
+      font-size: 2rem;
+    }
+    p {
+      font-size: 1.6rem;
+      margin-top: 2rem;
+    }
+  }
+}
